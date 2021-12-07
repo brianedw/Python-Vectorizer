@@ -1,1 +1,3 @@
-Python Vectorizer
+# Python Vectorizer
+
+see `Python Vectorizer.ipynb`.
